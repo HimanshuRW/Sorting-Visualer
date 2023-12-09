@@ -5,18 +5,6 @@ This project is a web-based sorting algorithm visualizer built using React. It a
 ## Live Demo
 Explore the live demo of the Sorting Algorithm Visualizer [here](https://sorting-visualiser-o1n4.onrender.com).
 
-## Getting Started
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-
-
-Certainly! Below is the content formatted in Markdown for a README.md file:
-
-markdown
-Copy code
 # React Sorting Algorithm Visualizer
 
 This project is a web-based sorting algorithm visualizer built using React. It allows users to interactively visualize the step-by-step execution of various sorting algorithms on a randomly generated array of elements.
@@ -29,7 +17,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/HimanshuRW/Sorting-Visualer.git
 2. Install dependencies:
    ```bash
    npm i
